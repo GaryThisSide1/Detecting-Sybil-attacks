@@ -17,6 +17,6 @@ it will also save a file called svm.csv which will contains the prediction colum
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/119076200/215895623-e1f381ba-8d73-409f-a78a-0b7d43ab68be.png">
 
-I applied the alogrithm on climate grant data and uploaded it on the ocean protocol u can access it from [here](www.google.com).
+I applied the alogrithm on climate grant data and uploaded it on the ocean protocol u can access it from [here](https://market.oceanprotocol.com/asset/did:op:bd9991b34d925b3a7e3c8da7239ba9d6830d11794b76616201d5d3c16eb5064d).
 
 hopefully this was helpful :).
