@@ -13,8 +13,10 @@ On running the program in the main.py file it will ask for the address of the pr
 
 <img width="599" alt="image" src="https://user-images.githubusercontent.com/119076200/215895913-d8a2ca1a-09e9-4996-a6e5-8f9daafce483.png">
 
-it will also save a file called svm.csv which will contains the prediction column with the destination_wallet and sender_wallet like this 
+it will also save a file called svm.csv which will contains the prediction column with the destination_wallet and sender_wallet like this.
 
-<img width="407" alt="image" src="https://user-images.githubusercontent.com/119076200/215895623-e1f381ba-8d73-409f-a78a-0b7d43ab68be.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/119076200/215895623-e1f381ba-8d73-409f-a78a-0b7d43ab68be.png">
 
-I applied the alogrithm on climate grant data and uploaded it on the ocean protocol u can access it from [here](www.google.com)
+I applied the alogrithm on climate grant data and uploaded it on the ocean protocol u can access it from [here](www.google.com).
+
+hopefully this was helpful :).
